@@ -1,0 +1,12 @@
+<!--miniprogram/pages/comporation/comporation.wxml-->
+<view class="container">
+  <view class='head'>商业合作</view>
+  <image src="../../images/comporation/11.png" style='height: 100px'></image>
+  <image src="../../images/comporation/12.png" style='height: 200px'></image>
+  <image src="../../images/comporation/13.png" style='height: 200px'></image>
+  <image src="../../images/comporation/14.png" style='height: 200px'></image>
+  <image src="../../images/comporation/15.png" style='height: 200px'></image>
+  <image src="../../images/comporation/16.png" style='height: 200px'></image>
+  <image src="../../images/comporation/17.png" style='height: 200px'></image>
+
+</view>

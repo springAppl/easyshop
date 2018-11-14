@@ -2,8 +2,9 @@
 <view class="container">
 
 <view class='head'>益店小站</view>
-<image src="https://kuboot-1256353119.cos.ap-beijing.myqcloud.com/image/2.png"></image>
-<image src="https://kuboot-1256353119.cos.ap-beijing.myqcloud.com/image/3.png"></image>
-<image src="https://kuboot-1256353119.cos.ap-beijing.myqcloud.com/image/4.png"></image>
+<image src="../../images/index/01.png" style='height: 100px'></image>
+<image src="../../images/index/02.png"></image>
+<image src="../../images/index/03.png"></image>
+<image src="../../images/index/04.png"></image>
 
 </view>

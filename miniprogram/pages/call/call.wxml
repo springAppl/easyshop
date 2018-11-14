@@ -1,0 +1,4 @@
+<!--miniprogram/pages/call/call.wxml-->
+<view class="container">
+  <view class='head'>联系我们</view>
+</view>

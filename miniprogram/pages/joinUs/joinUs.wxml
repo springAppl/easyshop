@@ -1,0 +1,11 @@
+<view class="container">
+  <view class='head'>加盟我们</view>
+  <image src="../../images/joinUs/04.png" style='height: 100px'></image>
+  <image src="../../images/joinUs/05.png" style='height: 200px'></image>
+  <image src="../../images/joinUs/06.png" style='height: 200px'></image>
+  <image src="../../images/joinUs/07.png" style='height: 200px'></image>
+  <image src="../../images/joinUs/08.png" style='height: 200px'></image>
+  <image src="../../images/joinUs/09.png" style='height: 200px'></image>
+  <image src="../../images/joinUs/10.png" style='height: 200px'></image>
+
+</view>
