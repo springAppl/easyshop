@@ -1,10 +1,8 @@
 <!--index.wxml-->
 <view class="container">
 
-<view class='head'>益店小站</view>
-<image src="../../images/index/01.png" style='height: 100px'></image>
-<image src="../../images/index/02.png"></image>
-<image src="../../images/index/03.png"></image>
-<image src="../../images/index/04.png"></image>
-
+<view class='head'>呼和浩特内大店</view>
+  <image src="../../images/index/01.png" id="image01"></image>
+  <image src="../../images/index/03.png" id="image02"></image>
+  <button>结算</button>
 </view>
